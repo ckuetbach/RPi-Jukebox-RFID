@@ -1,0 +1,2 @@
+*.sh text eol=ls
+*.sample text eol=ls

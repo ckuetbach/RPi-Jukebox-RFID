@@ -22,7 +22,6 @@ scripts/gpio-buttons.py
 shared/*
 playlists/*
 logs/*
-.git*
 *~
 *.*~
 *.pyc
